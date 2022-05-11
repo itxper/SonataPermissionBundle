@@ -1,5 +1,5 @@
 {
-    "name": "prodigious/sonata-permission-bundle",
+    "name": "itxper/sonata-permission-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides a friendly view to display roles administration.",
     "keywords": ["sonata admin permission", "sonata admin acl", "sonata admin roles"],
